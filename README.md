@@ -18,7 +18,7 @@ Explored NASA space missions dataset to uncover patterns in mission profiles usi
 - `space_missions_analysis.R`: Full script (data load, descriptives, clustering, FA, LDA/RF).
 
 ## Report
-- [Full PDF]((https://drive.google.com/file/d/1Q8yuivkqpsztSt2okNevmxe_2Job1L1x/view?usp=drive_link))
+- ((https://drive.google.com/file/d/1Q8yuivkqpsztSt2okNevmxe_2Job1L1x/view?usp=drive_link))
 
 ## Dataset
 - Sourced from [https://www.kaggle.com/datasets/sameerk2004/space-missions-dataset)].
