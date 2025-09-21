@@ -7,7 +7,7 @@ Explored NASA space missions dataset to uncover patterns in mission profiles usi
 - Data screening (outliers, normality via Shapiro/MVN).
 - Visualization (GGally densities, boxplots, violin plots).
 - Unsupervised: K-means clustering on scaled features; EFA for latent factors.
-- Supervised: LDA and Random Forest for mission type classification (accuracy ~[add from script, e.g., 85%]).
+- Supervised: LDA and Random Forest for mission type classification .
 
 ## Key Findings
 - 3 clusters: Short/low-cost Earth orbits vs. long/high-fuel deep space.
